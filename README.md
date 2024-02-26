@@ -6,3 +6,6 @@
 - 👩🏻‍💻 Find me on LinkedIn <u>[here](https://www.linkedin.com/in/harshithasompura/)</u>
 - 🐣 I'd especially love to work at a _startup_ or in a _tight-knit_ team where I can make an impact quickly. If you're hiring, let's chat! :)
 - 📫 Drop me an email at [sompharshi123@gmail.com](mailto:sompharshi123@gmail.com)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
