@@ -7,6 +7,7 @@
 - 🐣 I'd especially love to work at a _startup_ or in a _tight-knit_ team where I can make an impact quickly. If you're hiring, let's chat! :)
 - 📫 Drop me an email at [sompharshi123@gmail.com](mailto:sompharshi123@gmail.com)
 
+### 👽 Wakatime Stats:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2053%20mins-blue)
 
@@ -64,3 +65,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
  Last Updated on 27/02/2024 06:37:46 UTC
 <!--END_SECTION:waka-->
+
+👀 These stats were created using this GitHub repo - https://github.com/anmol098/waka-readme-stats.git. 
