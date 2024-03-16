@@ -9,7 +9,7 @@
 
 ### 👽 Wakatime Stats:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%204%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -38,12 +38,13 @@ Sunday                   364 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Dart                     1 hr 4 mins         ██████████████████████░░░   88.68 % 
-Markdown                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Dart                     1 hr 25 mins        ██████████████████████░░░   86.85 % 
+Markdown                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      1 hr 12 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 37 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -59,7 +60,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/03/2024 00:54:10 UTC
+ Last Updated on 16/03/2024 00:52:47 UTC
 <!--END_SECTION:waka-->
 
 👀 These stats were created using this GitHub repo - https://github.com/anmol098/waka-readme-stats.git. 
