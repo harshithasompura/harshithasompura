@@ -9,7 +9,7 @@
 
 ### 👽 Wakatime Stats:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2030%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -60,7 +60,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/03/2024 00:52:47 UTC
+ Last Updated on 17/03/2024 00:56:57 UTC
 <!--END_SECTION:waka-->
 
 👀 These stats were created using this GitHub repo - https://github.com/anmol098/waka-readme-stats.git. 
