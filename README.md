@@ -39,7 +39,7 @@ Sunday                   370 commits         ███░░░░░░░░�
 
 💬 Programming Languages: 
 Astro                    3 hrs 52 mins       █████████████████████████   99.26 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
@@ -59,7 +59,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/04/2024 00:54:45 UTC
+ Last Updated on 17/04/2024 00:55:47 UTC
 <!--END_SECTION:waka-->
 
 👀 These stats were created using this GitHub repo - https://github.com/anmol098/waka-readme-stats.git. 
