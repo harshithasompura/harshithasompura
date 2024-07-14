@@ -9,7 +9,7 @@
 
 ### 👽 Wakatime Stats:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-85%20hrs-blue)
 
 **I'm a Night 🦉** 
 
@@ -38,10 +38,10 @@ Sunday                   378 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               4 hrs 18 mins       ██████████████████████░░░   89.60 % 
-JSON                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+TypeScript               4 hrs 18 mins       ██████████████████████░░░   89.57 % 
+JSON                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
 Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
@@ -61,7 +61,7 @@ Astro                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/07/2024 01:02:13 UTC
+ Last Updated on 14/07/2024 01:06:45 UTC
 <!--END_SECTION:waka-->
 
 👀 These stats were created using this GitHub repo - https://github.com/anmol098/waka-readme-stats.git. 
