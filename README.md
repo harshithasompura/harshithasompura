@@ -38,11 +38,10 @@ Sunday                   382 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               11 mins             ████████████████████████░   94.86 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+Markdown                 0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      12 mins             █████████████████████████   100.00 % 
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -58,7 +57,7 @@ Astro                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2024 01:07:39 UTC
+ Last Updated on 29/07/2024 01:04:13 UTC
 <!--END_SECTION:waka-->
 
 👀 These stats were created using this GitHub repo - https://github.com/anmol098/waka-readme-stats.git. 
